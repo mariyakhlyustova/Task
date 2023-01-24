@@ -25,6 +25,7 @@ if (count > 0)
 else Console.WriteLine("Нет строк, длина которых меньше либо равна 3 символам");
 
 
+
 string[] UserFillArray(int number)
 {
     string[] array = new string[number];
